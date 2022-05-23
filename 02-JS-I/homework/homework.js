@@ -100,7 +100,6 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  return % 2
   
 }
 
@@ -122,14 +121,12 @@ function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
   return num **3;
-  
 }
 
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
   return num **exponent;
-  
 }
 
 function redondearNumero(num) {
