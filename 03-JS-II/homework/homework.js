@@ -221,14 +221,14 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
   var contador = 8;
-  var resultado = 0;
+  var resultado = numero;
   do{
     resultado += 5;
     contador -= 1;
   }
   while(contador !== 0)
   
-return numero + resultado;
+return resultado;
 
 }
 
