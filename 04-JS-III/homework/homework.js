@@ -71,7 +71,7 @@ function arrayContiene(array, elemento) {
      if(array[i] === elemento){
        return true;
      }
-    }
+  }
     return false;
 }
 
@@ -158,7 +158,6 @@ function diaDeLaSemana(numeroDeDia) {
   else{
     return "Es dia Laboral"
   }
-  
 } 
 
 
